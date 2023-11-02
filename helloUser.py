@@ -23,3 +23,4 @@ print(statement)
 #str
 
 #test to confirm I can commit changes from the local directory to the github repo using github desktop
+#take 2 after updating credentials in git config file locally
