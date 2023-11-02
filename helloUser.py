@@ -21,3 +21,5 @@ statement = statement + ' ' + name + '.'
 #output information
 print(statement)
 #str
+
+#test to confirm I can commit changes from the local directory to the github repo using github desktop
